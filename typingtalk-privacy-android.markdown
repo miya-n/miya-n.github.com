@@ -1,7 +1,9 @@
 ---
 layout: default
-title: TypingTalk AAC Privacy Policy (Android)
-permalink: /speaking-assist-privacy/
+title: TypingTalk Privacy Policy (Android)
+permalink: /typingtalk-privacy-android/
+redirect_from:
+  - /speaking-assist-privacy/
 ---
 
 # <img src="/assets/images/speaking-assist-icon.png" width="70" height="70">  TypingTalk AAC Privacy Policy (Android)

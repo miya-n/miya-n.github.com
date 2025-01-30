@@ -5,4 +5,4 @@
 layout: default
 ---
 
-Hi!
+Hi! I'm Miya. I made a free typing-to-speech app called TypingTalk AAC, available on both Android and iOS!
