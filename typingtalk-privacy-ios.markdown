@@ -16,4 +16,4 @@ After every Google Text-to-Speech request, the length in characters of the input
 
 While using Google Text-to-Speech, an AdMob banner ad is displayed at the bottom of the screen. These ads do not use the device's IDFA (identifier for advertisers), and are not personalized. The ads may use other contextual information, such as coarse geo-targeting based on city-level location, or other content relating to the app.
 
-To delete your anonymous user ID and data from our servers, simply do not open Google Text-to-Speech in the app for at least 30 days. Uninstalling the app also works for this purpose. After 30 days, your data is automatically deleted from our servers.
+To delete your anonymous user ID and data from our servers, simply do not open Google Text-to-Speech in the app for at least 30 days. Uninstalling the app works for this purpose, but is not necessary; you can keep using the "System" and "Personal Voice" types as long as you do not open a Google voice. After 30 days, your data is automatically deleted from our servers.
