@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+description: |
+    Google Play is a trademark of Google LLC.
+    Apple and the Apple logo are trademarks of Apple Inc.
 ---
 
 Hi! I'm Miya. I made a free typing-to-speech app called TypingTalk AAC, available on both Android and iOS!
