@@ -4,7 +4,13 @@ title: TypingTalk Privacy Policy (iOS)
 permalink: /typingtalk-privacy-ios/
 ---
 
-# <img src="/assets/images/speaking-assist-icon.png" width="70" height="70">  TypingTalk AAC Privacy Policy (iOS)
+<style>
+    .rounded {
+        border-radius: 8px;
+    }
+</style>
+
+# <img src="/assets/images/speaking-assist-icon.png" width="70" height="70" class="rounded"> &nbsp;TypingTalk AAC Privacy Policy (iOS)
 
 When using the “System” and “Personal Voice” voice types on the app, no data of any kind is collected, shared, or stored on our servers. Usage of these voices is completely local to the device.
 
