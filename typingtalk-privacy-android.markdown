@@ -8,7 +8,7 @@ redirect_from:
 
 <style>
     .rounded {
-        border-radius: 8px;
+        border-radius: 12px;
     }
 </style>
 

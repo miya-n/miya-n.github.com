@@ -6,7 +6,7 @@ permalink: /typingtalk-privacy-ios/
 
 <style>
     .rounded {
-        border-radius: 8px;
+        border-radius: 12px;
     }
 </style>
 
